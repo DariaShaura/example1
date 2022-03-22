@@ -10,7 +10,7 @@
 	C (стоимость часа специалиста)
 
 Пример запуска:
-	python3 main.py A.csv B.csv C.csv
+	python3 main.py A B C
 
 
 Пример вывода:
